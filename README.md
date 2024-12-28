@@ -1,9 +1,7 @@
-- 👋 Hi, I’m @Rishikr30
-- 👀 I’m interested in Development
+- 👋 Hi, I’m Rishi kumar
+- 👀 I’m interested in Softwere Development
 - 🌱 I’m currently learning Front end Development
-- 💞️ I’m looking to collaborate on ....
-- 📫 How to reach me ...
-- ⚡ Fun fact: ...
+- 💞️ I’m looking to collaborate on projects
 
 <!---
 Rishikr30/Rishikr30 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
