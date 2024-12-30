@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Rishi kumar30
+ - 👋 Hi, I’m Rishi Kumar
 - 👀 I’m interested in Softwere Development
 - 🌱 I’m currently learning Front end Development
 - 💞️ I’m looking to collaborate on projects
